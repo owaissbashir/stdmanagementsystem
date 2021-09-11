@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Stdfeemanagementsystem">
-        <activity android:name=".AdminLogin"></activity>
+        <activity android:name=".StudentProfile"></activity>
+        <activity android:name=".StudentPage" />
+        <activity android:name=".AdminPage" />
+        <activity android:name=".AdminLogin" />
         <activity android:name=".AdminRegister" />
         <activity android:name=".StudentLogin" />
         <activity android:name=".StudentRegister" />
